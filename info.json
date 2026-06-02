@@ -1,8 +1,8 @@
 [
-    "Isi sesuai dengan Jenis Ekskul dan Program Unggulan.",
-    "Sesuaikan daftar peserta pada absensi dan daftar nilai ini.",
-    "Hapus siswa yang sudah tidak mengikuti.",
-    "Tambahkan siswa yang belum ada dalam daftar nilai.",
-    "Jika tidak bisa mengisi, klik Request Access kemudian WA ke Waka Kesiswaan.",
-    "Selamat mengerjakan."
+    "Periksa daftar peserta dan pastikan telah sesuai dengan daftar hadir.",
+    "Pastikan pengisian nilai pada halaman penilaian yang tepat.",
+    "Pastikan pengisian nilai tidak mengubah, menghapus, atau menimpa data penilaian lainnya.",
+    "Hapus nama peserta yang sudah tidak aktif atau tidak lagi mengikuti kegiatan yang bersangkutan.",
+    "Tambahkan nama peserta yang aktif mengikuti kegiatan tetapi belum tercantum dalam daftar penilaian.",
+    "Pastikan seluruh data peserta dan nilai telah diperiksa kembali sebelum disimpan."
 ]
