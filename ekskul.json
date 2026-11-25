@@ -1,7 +1,7 @@
 [
     {
         "nama":"1. Badminton (tidak ada nilai/tidak dilaksanakan)",
-        "url":"badminton.html"
+        "url":"https://docs.google.com/spreadsheets/d/1LVjdFy5xGltIGsalrOv5D3PCSZWZYdweHBAxkkjpxpQ/edit?usp=sharing"
     },
     {
         "nama":"2. Basket",
@@ -36,19 +36,23 @@
         "url":"https://docs.google.com/spreadsheets/d/1XWT3D8RpqW9NbkIyKFZ-nTyJJILJoz2rMzYD6p8TXmk/edit?usp=drive_link"
     },
     {
-        "nama":"10. Renang",
+        "nama":"10. Pencak Silat",
+        "url":"https://docs.google.com/spreadsheets/d/1-muKzXw9CsSRL1Pe3K6ke5hDVRbreqBHbdmpVHZzxm8/edit?usp=sharing"
+    },
+    {
+        "nama":"11. Renang",
         "url":"https://docs.google.com/spreadsheets/d/1C89Coaie0b4as_PkYYQLP5hzS8sqXPRVZl8LVn6k9bI/edit?usp=drive_link"
     },
     {
-        "nama":"11. Sains Kids",
+        "nama":"12. Sains Kids",
         "url":"https://docs.google.com/spreadsheets/d/1OC4zy53hpB_ucuzZU_W7kT2Sj5kfJ-AfSHABCqqhZi0/edit?usp=drive_link"
     },
     {
-        "nama":"12. Taekwondo",
+        "nama":"13. Taekwondo",
         "url":"https://docs.google.com/spreadsheets/d/1v5cJDJrTM4lEbO1Assq_IqMr1byIYTOFvpzAjyl83-o/edit?usp=drive_link"
     },
     {
-        "nama":"13. Tahsin",
+        "nama":"14. Tahsin",
         "url":"https://docs.google.com/spreadsheets/d/1TEV85yq-_fcyzKKUhqGWADIcFEyvvKVaQHZyv0nDX_I/edit?usp=drive_link"
     }
 ]
